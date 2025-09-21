@@ -9,7 +9,7 @@
 | 2   | Lê Nguyễn Anh Đức      | 3122410087  | [anhduc](https://github.com/anhduc)     |     |
 | 3   | Nguyễn Trọng Tấn Sang  | 3121560076  | [sangnt](https://github.com/sangnt)     |    |
 
-
+---
 ## Tiến độ bài tập nhóm TTNTNC
 
 | STT | Tuần | Tên bài tập                                                                 | Tình trạng | Thành viên tham gia | % đóng góp (nếu trên 1 người) |
